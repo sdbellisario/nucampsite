@@ -19,10 +19,14 @@
   "author": "Sean Dufty",
   "license": "ISC",
   "devDependencies": {
+    "copyfiles": "^2.2.0",
+    "imagemin-cli": "^5.1.0",
     "lite-server": "^2.6.1",
     "onchange": "^7.0.0",
     "parallelshell": "3.0.1",
-    "sass": "^1.49.9"
+    "rimraf": "^3.0.2",
+    "sass": "^1.49.9",
+    "usemin-cli": "^0.6.0"
   },
   "dependencies": {
     "bootstrap": "^4.5.2",
